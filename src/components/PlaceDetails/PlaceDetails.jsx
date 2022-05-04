@@ -9,7 +9,6 @@ import {
   Card,
   CardMedia,
   CardContent,
-  CardActions,
   Chip,
 } from "@material-ui/core";
 

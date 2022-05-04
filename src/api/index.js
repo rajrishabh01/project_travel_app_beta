@@ -1,8 +1,4 @@
-import { Data } from "@react-google-maps/api";
 import axios from "axios";
-
-const URL =
-  "https://travel-advisor.p.rapidapi.com/restaurants/list-in-boundary";
 
 export const getPlacesData = async (type, sw, ne) => {
   try {
